@@ -1,0 +1,1 @@
+(function(x,p){if(!x[p]){x[p]=function(e,n){var o=this,l=o.length,j=n?n:0;if(!(l===0||j>=l)){if(j<0){j=(l-Math.abs(j))};for(var i=j;i<l;i++){if(o[i]===e){return i}}};return -1}}})(Array.prototype,'indexOf');
