@@ -1,2 +1,2 @@
-js-Polyfill_Array-indexOf
+js-Polyfill Array-indexOf
 =========================
